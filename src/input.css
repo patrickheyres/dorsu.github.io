@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+
+    font-family: 'Old English Text MT';
+
+    src: url(/fonts/Old\ English\ Text\ MT.ttf)
+
+}
